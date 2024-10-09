@@ -1,0 +1,16 @@
+.container {
+  margin-left: 20px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  max-width: 280px;
+  min-height: 25px;
+  border: 1px solid #7a7a7a;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
